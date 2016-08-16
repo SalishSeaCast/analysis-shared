@@ -21,6 +21,11 @@ Descriptions below the links are from the first cell of the notebooks
       
     * Rivers turned on, key_ldfslp turned off, constant vertical mixing  
 
+* ##[SMELTmerge_r5912_r6036.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis/raw/tip/merge_compare/SMELTmerge_r5912_r6036.ipynb)  
+    
+    **Notebook to Look at SMELT merge results **  
+
+
 * ##[SMELTmerge_base_base2.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis/raw/tip/merge_compare/SMELTmerge_base_base2.ipynb)  
     
     **Notebook to Look at SMELT merge results **  
@@ -43,6 +48,8 @@ Descriptions below the links are from the first cell of the notebooks
     
     Comparing nemo 3.4 with and without key_ldfslp.  
 
+* ##[Thalweg August 2016.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis/raw/tip/merge_compare/Thalweg August 2016.ipynb)  
+    
 
 ##License
 
