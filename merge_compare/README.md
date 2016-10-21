@@ -26,6 +26,14 @@ Descriptions below the links are from the first cell of the notebooks
     **Notebook to Look at SMELT merge results **  
 
 
+* ##[NEMO36_r6204_r6036.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis/raw/tip/merge_compare/NEMO36_r6204_r6036.ipynb)  
+    
+    Comparing merge-tests between 3.6 revision f6204 and r6036   
+
+* ##[NEMO36_r6459_r6204.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis/raw/tip/merge_compare/NEMO36_r6459_r6204.ipynb)  
+    
+    Comparing merge-tests between 3.6 revision f6204 and r6036   
+
 * ##[SMELTmerge_base_base2.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/salishsea/analysis/raw/tip/merge_compare/SMELTmerge_base_base2.ipynb)  
     
     **Notebook to Look at SMELT merge results **  
