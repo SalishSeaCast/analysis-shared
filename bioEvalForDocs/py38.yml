@@ -1,0 +1,37 @@
+name: py38
+channels:
+ - conda-forge
+dependencies:
+ - python=3.8.*
+ - numpy=1.18.*
+ - sqlalchemy=1.3.*
+ - matplotlib=3.1.*
+ - netcdf4
+ - hdf4
+ - pandas=0.25.*
+ - basemap
+ - progressbar2
+ - xarray
+ - dask
+ - jupyter
+ - arrow
+ - bottleneck
+ - coverage
+ - ipython
+ - jupyterlab
+ - lxml
+ - pytest
+ - pytz
+ - python-dateutil
+ - pyyaml
+ - scipy
+ - cmocean
+ - xlrd
+ - pip
+ - pip:
+   - f90nml
+   - gsw
+# conda env create -f py38.yml
+# conda activate py38
+# pip install --user --editable /data/eolson/results/MEOPAR/tools/SalishSeaTools
+# python -m ipykernel install --user --name py38 --display-name "Python (py38)"
