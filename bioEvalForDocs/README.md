@@ -27,8 +27,6 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * [vET-HC1905-DFO-NutChlPhys-2018.ipynb](/data/eolson/results/MEOPAR/analysis-shared/bioEvalForDocs/vET-HC1905-DFO-NutChlPhys-2018.ipynb)  
     
-* [vET-HC1905-DFO-NutChlPhys-Base.ipynb](/data/eolson/results/MEOPAR/analysis-shared/bioEvalForDocs/vET-HC1905-DFO-NutChlPhys-Base.ipynb)  
-    
 
 ##License
 
